@@ -38,4 +38,15 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
-  
+  ### Hi there 👋
+
+- 👩🏻‍💻 I'm a computer science engineering student at CNU
+- 🌱 My goal is to be a backend developer and DevOps!
+- 📫 How to reach me: ksl2950@gmail.com
+- 🤍 My Blog : https://ksl2950.tistory.com/
+
+ [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksl2950)](https://solved.ac/ksl2950/)
+ </br></br>
+ ![songyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=songyi00&show_icons=true)
+
+
