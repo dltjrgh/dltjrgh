@@ -48,6 +48,6 @@
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)]
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh&layout=compact" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh" />
 </a>
 
