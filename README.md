@@ -44,8 +44,7 @@
 - 🌱 My goal is to be a backend developer and DevOps!
 - 📫 How to reach me: ksl2950@gmail.com
 - 🤍 My Blog : https://ksl2950.tistory.com/
-
- [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ksl2950)](https://solved.ac/ksl2950/)
+  
  </br></br>
 [![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)]
 
