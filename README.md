@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=litsynp&fontSize=90" />
 
-<h3 align="center" style="font-size: 1.5rem;">Hello there 👋 , this is litsynp (SJ Lee)</h3>
+<h3 align="center" style="font-size: 1.5rem;">Hello there 👋 , this is Andrew (Seokho Lee)</h3>
 
 <h3 align="center">🌱 I’m interested in ...</h3>
 <p align="center">Backend Development and Computer Vision</p>
@@ -37,7 +37,6 @@
 <a href="mailto:nocte55is@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nocte55is@gmail.com"/>
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer" />
   ### Hi there 👋
 
 - 👩🏻‍💻 I'm a computer science engineering student at CNU
