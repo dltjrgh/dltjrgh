@@ -48,7 +48,7 @@
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh&theme=react" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh&theme=react&layout=compact" />
 </a>
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltjrgh%2Fhit-counter&count_bg=%237D8CD4&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
