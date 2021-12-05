@@ -45,9 +45,9 @@
 - 🤍 My Blog : https://ksl2950.tistory.com/
   
  </br></br>
-[![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)]
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)]
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh" />
+  <img align="bottom" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh&theme=react" />
 </a>
 
