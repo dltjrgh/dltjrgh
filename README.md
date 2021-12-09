@@ -43,4 +43,20 @@
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)
 [![Andrew's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh&show_icons=true&hide_border=true&layout=compact&theme=react)](https://github.com/dltjrgh)
 
-
+#### ✨ SoftWare  
+* **DeepLearning Framework**: 
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=PyTorch&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=TensorFlow&logoColor=white"/></a>
+* **DB**: 
+<img src="https://img.shields.io/badge/mongodb-339933?style=flat-square&logo=mongodb&logoColor=white"/></a>
+* **Search engine**: 
+<img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=Elastic-Stack&logoColor=white"/></a>
+* **Version control**: 
+<img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Gitkraken-1572B6?style=flat-square&logo=Gitkraken&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/></a>
+* **OS**:
+<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
+* **Cloud**:
+<img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/></a>
