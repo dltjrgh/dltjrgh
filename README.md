@@ -1,3 +1,5 @@
+# Seokho Lee's Github[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltjrgh&count_bg=%2364A0D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=dltjrgh&fontSize=90" />
 
 <h3 align="center" style="font-size: 1.5rem;">Hello there 👋 , this is Andrew (Seokho Lee)</h3>
@@ -48,4 +50,4 @@
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)
 [![Andrew's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh&show_icons=true&hide_border=true&layout=compact&theme=react)](https://github.com/dltjrgh)
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltjrgh&count_bg=%2364A0D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+
