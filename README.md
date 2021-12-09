@@ -38,6 +38,5 @@
 <a href="mailto:andrewleebcs@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white&link=mailto:andrewleebcs@gmail.com"/>
 </p>
 
- </br></br>
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)
 [![Andrew's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh&show_icons=true&hide_border=true&layout=compact&theme=react)](https://github.com/dltjrgh)
