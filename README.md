@@ -5,7 +5,7 @@
 <h3 align="center" style="font-size: 1.5rem;">Hello there 👋 , this is Andrew (Seokho Lee)</h3>
 
 <h3 align="center">🌱 I’m interested in ...</h3>
-<p align="center">Backend Development and Computer Vision</p>
+<p align="center">Data Science and Deep Learning</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/>
