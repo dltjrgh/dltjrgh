@@ -1,4 +1,4 @@
-# Seokho Lee's Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltjrgh&count_bg=%2364A0D6&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+# Seokho Lee's Github [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fdltjrgh&count_bg=%233D71C8&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+views&edge_flat=true)](https://hits.seeyoufarm.com)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=dltjrgh&fontSize=90" />
 
