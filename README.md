@@ -42,5 +42,3 @@
 
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=dltjrgh&&show_icons=true&theme=react)
 [![Andrew's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dltjrgh&show_icons=true&hide_border=true&layout=compact&theme=react)](https://github.com/dltjrgh)
-
-https://crimsoneducation.zoom.us/s/97118070012?pwd=UkYvbkM3a0NhbjhLekVRd2pENzhLZz09
