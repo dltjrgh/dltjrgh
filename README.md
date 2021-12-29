@@ -21,12 +21,12 @@
 <h3 align="center">📚 I have experience with ...</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white"/>
   <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=Flask&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=OpenCV&logoColor=white"/>
   <img src="https://img.shields.io/badge/Elastic_Stack-005571?style=flat-square&logo=Elastic-Stack&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=flat-square&logo=Amazon-AWS&logoColor=white"/>
 </p>
 <p align="center">
   <img src="https://img.shields.io/badge/Git-000000?style=flat-square&logo=Git&logoColor=white"/>
